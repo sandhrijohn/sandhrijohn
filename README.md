@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhrijohn" alt="sandhrijohn" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, React Native**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Full stack**
 
