@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack**
 
-- 📫 How to reach me **abhijohn.sandhri@gmail.com**
+- 📫 How to reach me **asandhrijohn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
